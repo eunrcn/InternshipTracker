@@ -1,6 +1,6 @@
 ---
-  layout: default.md
-    title: "Yixin's Project Portfolio Page"
+layout: default.md
+title: "Yixin's Project Portfolio Page"
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -13,9 +13,9 @@
 #### Project Overview
 * InternHub is a productivity tool designed to help Undergraduate students manage their internship applications.
 * The user interacts with it using a CLI, and it has a GUI created with JavaFX.
-* 
+
 * It is written in Java, and has about 10 kLoC.
-* 
+
 
 
 
