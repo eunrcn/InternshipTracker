@@ -62,4 +62,3 @@ Given below are my contributions to the project.
   * Set up UserGuide.md and DeveloperGuide.md.
   * Set up the team's GitHub repository.
 
-
