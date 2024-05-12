@@ -26,7 +26,7 @@ InternHub caters to **undergraduates from all fields**, providing them with a se
 **For professors and career guidance officers** reading this, we invite you to share this invaluable resource with your students, empowering them to secure their dream internships.
 
 InternHub is meticulously crafted with **user-friendliness** at its core, tailored to accommodate individuals of all computer proficiency levels. 
-Whether you're a experienced or just starting to explore desktop applications, our interface ensures a seamless experience, intuitively guiding you through every step of your internship management journey. 
+Whether you're experienced or just starting to explore desktop applications, our interface ensures a seamless experience, intuitively guiding you through every step of your internship management journey. 
 With InternHub's sleek Command Line Interface (CLI), navigation and management become effortless, empowering you to stay focused on your goals.
 
 Unlock the power to focus on what truly matters – securing that coveted internship – with InternHub by your side.
